@@ -1,0 +1,8 @@
+Prompt: How to talk with generative AI Model(Asking a question).
+=================================================================
+Prompt Tuning: We are modifying our question  (with example).
+=================================================================
+Gen AI: Generate the content based on given prompt
+=================================================================
+
+
